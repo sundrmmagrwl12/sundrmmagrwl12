@@ -1,7 +1,7 @@
 <div align="center">
 
 # ⚡ Sundram Singhal
-### Backend Developer / SDE-1 · Distributed Systems · Cloud & DevOps Enthusiast
+### Backend Developer / SDE-1 · Cloud & DevOps Enthusiast
 
 [![Portfolio](https://img.shields.io/badge/🌐_AI_Portfolio-Live_Site-00ff88?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sundram-ai-portfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sundram-singhal-b94069252/)
@@ -15,9 +15,8 @@
 ### 👨‍💻 About Me
 
 - 🎓 **B.Tech CSE Graduate (2022–2026, 8.21 CGPA)** from Lloyd Institute of Engineering & Technology.
-- 💼 **Former Software Trainee at Step2gen Technologies** — engineered modular backend components adhering to Clean Architecture & SOLID principles under strict sprint cycles.
 - 🛡️ **Architected [ZeroMesh-UPI](https://github.com/sundrmmagrwl12/ZeroMesh-UPI)** — offline mesh payment platform with Bluetooth gossip routing, RSA-2048 + AES-256-GCM hybrid encryption, and sub-millisecond Redis SETNX deduplication.
-- ☁️ **AWS DevOps Hands-on Practitioner** — completed 6-Day AWS challenge implementing IAM, EC2, CodeArtifact, CodeBuild, and multi-stage CI/CD pipelines.
+- ☁️ **AWS DevOps Hands-on Track** — completed multi-stage CI/CD pipeline implementation with IAM, EC2, CodeArtifact, and CodeBuild.
 - 📊 **800+ DSA Problems Solved** across LeetCode & GeeksforGeeks (Institute Rank #3 on GFG).
 - 🚀 **Immediate Joiner** | Open to SDE-1 / Backend Developer roles.
 
@@ -57,14 +56,14 @@
 
 ---
 
-### 📈 GitHub & Problem Solving Stats
+### 📈 Stats & Track Record
 
 <div align="center">
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sundrmmagrwl12&show_icons=true&theme=tokyonight&border_color=00ff88&border_radius=10&rank_icon=github" alt="Sundram's GitHub Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sundrmmagrwl12&theme=tokyonight&border=00ff88&border_radius=10" alt="GitHub Streak" width="48%" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sundrmmagrwl12&layout=compact&theme=tokyonight&border_color=00ff88&border_radius=10&langs_count=6" alt="Top Languages" width="48%" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sundrmmagrwl12&show_icons=true&theme=tokyonight&border_color=00ff88&border_radius=10&rank_icon=github" alt="GitHub Stats" width="48%" />
 
-<br/>
+<br/><br/>
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Sundram_Singhal?theme=dark&font=Geist&ext=contest)](https://leetcode.com/u/Sundram_Singhal/)
 
