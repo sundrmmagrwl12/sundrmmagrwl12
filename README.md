@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Sundram Singhal
+# ⚡Sundram Singhal
 ### Backend Developer / SDE-1 · Cloud & DevOps Enthusiast
 
 [![Portfolio](https://img.shields.io/badge/🌐_AI_Portfolio-Live_Site-00ff88?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sundram-ai-portfolio.vercel.app)
