@@ -1,12 +1,12 @@
 <div align="center">
 
-# ⚡Sundram Singhal
+# ⚡ Sundram Singhal
 ### Backend Developer / SDE-1 · Cloud & DevOps Enthusiast
 
-<a href="https://sundram-ai-portfolio.vercel.app" target="_blank"><img src="https://img.shields.io/badge/🌐_AI_Portfolio-Live_Site-00ff88?style=for-the-badge&logo=googlechrome&logoColor=white" alt="AI Portfolio" /></a>
-<a href="https://www.linkedin.com/in/sundram-singhal-b94069252/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://leetcode.com/u/Sundram_Singhal/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
-<a href="https://www.geeksforgeeks.org/profile/sundramsihn0i?tab=activity" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-Rank_%233-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
+[![Portfolio](https://img.shields.io/badge/🌐_AI_Portfolio-Live_Site-00ff88?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sundram-ai-portfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sundram-singhal-b94069252/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Sundram_Singhal/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Rank_%233-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/sundramsihn0i?tab=activity)
 
 </div>
 
@@ -15,9 +15,9 @@
 ### 👨‍💻 About Me
 
 - 🎓 **B.Tech CSE Graduate (2022–2026, 8.21 CGPA)** from Lloyd Institute of Engineering & Technology.
-- 🛡️ **Architected <a href="https://github.com/sundrmmagrwl12/ZeroMesh-UPI" target="_blank">ZeroMesh-UPI</a>** — offline mesh payment platform with Bluetooth gossip routing, RSA-2048 + AES-256-GCM hybrid encryption, and sub-millisecond Redis SETNX deduplication.
+- 🛡️ **Architected [ZeroMesh-UPI](https://github.com/sundrmmagrwl12/ZeroMesh-UPI)** — offline mesh payment platform with Bluetooth gossip routing, RSA-2048 + AES-256-GCM hybrid encryption, and sub-millisecond Redis SETNX deduplication.
 - ☁️ **AWS DevOps Hands-on Track** — completed multi-stage CI/CD pipeline implementation with IAM, EC2, CodeArtifact, and CodeBuild.
-- 📊 **800+ DSA Problems Solved** across LeetCode & GeeksforGeeks (Institute Rank #3 on GFG).
+- 📊 **DSA & Problem Solving** across LeetCode & GeeksforGeeks (Institute Rank #3 on GFG).
 - 🚀 **Immediate Joiner** | Open to SDE-1 / Backend Developer roles.
 
 ---
@@ -61,11 +61,11 @@
 <div align="center">
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sundrmmagrwl12&layout=compact&theme=tokyonight&border_color=00ff88&border_radius=10&langs_count=6&hide=html,ejs" alt="Top Languages" width="48%" />
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sundrmmagrwl12&show_icons=true&theme=tokyonight&border_color=00ff88&border_radius=10&rank_icon=github" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sundrmmagrwl12&show_icons=true&theme=tokyonight&border_color=00ff88&border_radius=10&rank_icon=github" alt="GitHub Stats" width="48%" />
 
 <br/><br/>
 
-<a href="https://leetcode.com/u/Sundram_Singhal/" target="_blank"><img src="https://leetcard.jacoblin.cool/Sundram_Singhal?theme=dark&font=Geist&ext=contest" alt="LeetCode Stats" /></a>
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Sundram_Singhal?theme=dark&font=Geist&ext=contest)](https://leetcode.com/u/Sundram_Singhal/)
 
 </div>
 
@@ -73,6 +73,6 @@
 
 ### 📬 Connect With Me
 
-- 🌐 **Interactive AI Portfolio:** <a href="https://sundram-ai-portfolio.vercel.app" target="_blank">sundram-ai-portfolio.vercel.app</a>
-- 💼 **LinkedIn:** <a href="https://www.linkedin.com/in/sundram-singhal-b94069252/" target="_blank">sundram-singhal-b94069252</a>
-- 📧 **Email:** <a href="mailto:sundramsinghal944@gmail.com">sundramsinghal944@gmail.com</a>
+- 🌐 **Interactive AI Portfolio:** [sundram-ai-portfolio.vercel.app](https://sundram-ai-portfolio.vercel.app)
+- 💼 **LinkedIn:** [sundram-singhal-b94069252](https://www.linkedin.com/in/sundram-singhal-b94069252/)
+- 📧 **Email:** [sundramsinghal944@gmail.com](mailto:sundramsinghal944@gmail.com)
