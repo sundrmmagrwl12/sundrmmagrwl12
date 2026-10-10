@@ -60,7 +60,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sundrmmagrwl12&layout=compact&theme=tokyonight&border_color=00ff88&border_radius=10&langs_count=6" alt="Top Languages" width="48%" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sundrmmagrwl12&layout=compact&theme=tokyonight&border_color=00ff88&border_radius=10&langs_count=6&hide=html,ejs" alt="Top Languages" width="48%" />
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sundrmmagrwl12&show_icons=true&theme=tokyonight&border_color=00ff88&border_radius=10&rank_icon=github" alt="GitHub Stats" width="48%" />
 
 <br/><br/>
